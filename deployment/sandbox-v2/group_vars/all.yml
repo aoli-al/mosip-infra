@@ -240,7 +240,7 @@ reg_client:
 
 repos:
   commons:
-    src: https://github.com/mosip/commons 
+    src: https://github.com/aoli-al/commons 
     dest: '{{tmp_dir}}/commons'
     tag: 1.1.5
     githubuser: ''
